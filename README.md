@@ -23,9 +23,14 @@
 <a href="https://github.com/kennycaiguo/java_study">记录java的一些学习笔记.mysql/ spring/ mybatis/ demo--- 持续更新</a></br>
 <a href="https://github.com/kennycaiguo/java-concurrent-programming">《实战Java 高并发程序设计》笔记和源码整理</a></br>
 <a href="https://github.com/kennycaiguo/JavaEETest">Spring、SpringMVC、MyBatis、Spring Boot案例</a></br>
+<a href="https://github.com/kennycaiguo/java-notes-1"> Java 后端开发人员的学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/Java-Note">一个Java 程序员 的笔记本</a></br>
+<a href="https://github.com/kennycaiguo/learn-java-notes">该仓库主要用于存放Java学习相关笔记，相关代码主要存放于 https://github.com/caojx-git/learn-java-codes 仓库存</a></br>
+<a href="https://github.com/kennycaiguo/Tmall_JavaEE">技术栈 Servlet + Jsp + Tomcat , 是Java Web入门非常好的练手项目</a></br>
+<a href="https://github.com/kennycaiguo/chuanzhimybatis">传智播客 整体学习 mybatis项目</a></br>
 <a href=""></a></br>
 <a href=""></a></br>
-<a href=""></a></br>
+
 
 <Strong></font>
 **************************************************************************************************************************************
@@ -40,8 +45,8 @@
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
-<a href=""></a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/WebHubBot">Python + Scrapy + MongoDB . 5 million data per day !!!💥 The world's largest website.</a></br>
+<a href="https://github.com/kennycaiguo/Heima-Python-2018">传智播客 黑马 2018年三期Python培训笔记</a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
@@ -62,6 +67,7 @@
 <a href="https://github.com/kennycaiguo/mongo-csharp-driver"></a></br>
 <a href="NET Driver for MongoDB">NET Driver for MongoDB</a></br>
 <a href="https://github.com/kennycaiguo/express-mongodb-node">前后端分离实现增删改查</a>
+<a href="https://github.com/kennycaiguo/vue-express-mongodb">前后端分离mongodb</a><br/>
 
 **************************************************************************************************************************************
 ## 电脑硬件以及windows操作系统相关<br/>
