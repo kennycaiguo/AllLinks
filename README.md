@@ -30,6 +30,8 @@
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
+### 网络前端开发
+<a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
 **************************************************************************************************************************************
 ## 数据库<br/>
@@ -56,6 +58,7 @@
 
 **************************************************************************************************************************************
 ## linux操作系统<br/>
+<a href="https://github.com/kennycaiguo/OS-Linux-">linux相关电子书</a></br>
 <a href="https://github.com/kennycaiguo/linux-c-cpp">C、C++和其在Linux下的编程学习，主要是51CTO、传智播客、一些经典书籍</a></br>
 
 **************************************************************************************************************************************
@@ -70,8 +73,8 @@
 
 
 
-<a href=" "></a></br>
-<a href=" "></a></br>
+
+
 <a href=" "></a></br>
 <a href=" "></a></br>
 <a href=" "></a></br>
