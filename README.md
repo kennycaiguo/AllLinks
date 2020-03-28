@@ -1,9 +1,9 @@
-# 这个是仓库连接管理页面，存放所有仓库的连接
-<Strong>
+# 这个是仓库连接管理页面，存放常用和重要仓库的连接
+##<Strong>
  <a href="https://github.com/kennycaiguo/Kenny_javaebook-And-source-code">Java电子书，以及数据库常用依赖jar包，非常重要</a></br>
 <a href="https://github.com/kennycaiguo/cSharp">C#常用代码以及电子书，操作各种数据库的demo</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
- <Strong>
+##<Strong>
 <a href="https://github.com/kennycaiguo/Oracle-database-11g">Oracle-database-11g</a><br/>
 <a href="https://github.com/kennycaiguo/Pc-hardware">电脑硬件相关电子书Pc-hardware</a><br/>
 <a href="https://github.com/kennycaiguo/heima-Java-ee">黑马Java ee就业班笔记</a><br/>
