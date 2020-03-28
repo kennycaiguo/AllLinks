@@ -20,6 +20,8 @@
 <a href="https://github.com/kennycaiguo/springboot-web">springboot-web基础框架，供日后使用</a></br>
 <a href="https://github.com/kennycaiguo/MVC2_Portfolio">Apache,Tomcat7.0,jdk1.8,Oracle11g,Eclipse</a></br>
 <a href="https://github.com/kennycaiguo/understanding-the-jvm">《深入理解 Java 虚拟机》阅读笔记</a></br>
+<a href="https://github.com/kennycaiguo/java_study">记录java的一些学习笔记.mysql/ spring/ mybatis/ demo--- 持续更新</a></br>
+<a href="https://github.com/kennycaiguo/java-concurrent-programming">《实战Java 高并发程序设计》笔记和源码整理</a></br>
 <Strong></font>
 **************************************************************************************************************************************
 ## 其他编程语言<br/>
@@ -33,6 +35,8 @@
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
+<a href=""></a></br>
+<a href=""></a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
@@ -52,7 +56,7 @@
 <a href="https://github.com/kennycaiguo/mongo-python-driver">PyMongo - the Python driver for MongoDB</a></br>
 <a href="https://github.com/kennycaiguo/mongo-csharp-driver"></a></br>
 <a href="NET Driver for MongoDB">NET Driver for MongoDB</a></br>
-
+<a href="https://github.com/kennycaiguo/express-mongodb-node">前后端分离实现增删改查</a>
 
 **************************************************************************************************************************************
 ## 电脑硬件以及windows操作系统相关<br/>
@@ -66,6 +70,6 @@
 
 **************************************************************************************************************************************
 
-
+<a href=""></a></br>
 
 
