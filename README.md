@@ -23,7 +23,9 @@
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
+<a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
+
 **************************************************************************************************************************************
 ## 数据库<br/>
 <a href="https://github.com/kennycaiguo/SQL-Server">SQL Server安装调试</a></br>
@@ -59,7 +61,7 @@
 
 
 
-<a href=" "></a></br>
+
 <a href=" "></a></br>
 <a href=" "></a></br>
 <a href=" "></a></br>
