@@ -28,10 +28,12 @@
 <a href="https://github.com/kennycaiguo/learn-java-notes">该仓库主要用于存放Java学习相关笔记，相关代码主要存放于 https://github.com/caojx-git/learn-java-codes 仓库存</a></br>
 <a href="https://github.com/kennycaiguo/Tmall_JavaEE">技术栈 Servlet + Jsp + Tomcat , 是Java Web入门非常好的练手项目</a></br>
 <a href="https://github.com/kennycaiguo/chuanzhimybatis">传智播客 整体学习 mybatis项目</a></br>
-<a href=""></a></br>
-<a href=""></a></br>
-
-
+<a href="https://github.com/kennycaiguo/springboot_jpa_oracle_excel">数据库为oracle11g，orm框架jpa，基于springboot做的，excel导入到数据库</a></br>
+<a href="https://github.com/kennycaiguo/ShopSys">这是传智播客上面的一个在线商城的项目，含有支付功能</a></br>
+<a href="https://github.com/kennycaiguo/Struts2-">Struts2学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/mybatis-generator">mybatis逆向工程，Oracle11G、MySQL5.7亲测可用</a></br>
+<a href="https://github.com/kennycaiguo/chuanzhi_workspace">传智工作代码</a></br>
+<a href="https://github.com/kennycaiguo/Springboot-JPA-Oracle11g">使用springboot2.1.5+JPA+oracle11g来进行操作</a></br>
 <Strong></font>
 **************************************************************************************************************************************
 ## 其他编程语言<br/>
@@ -78,7 +80,7 @@
 ## linux操作系统<br/>
 <a href="https://github.com/kennycaiguo/OS-Linux-">linux相关电子书</a></br>
 <a href="https://github.com/kennycaiguo/linux-c-cpp">C、C++和其在Linux下的编程学习，主要是51CTO、传智播客、一些经典书籍</a></br>
-
+<a href="https://github.com/kennycaiguo/centos7_oracle_sql">在centos7上部署oracle11g，并学习oracle的基本sql操作</a><br/>
 **************************************************************************************************************************************
 
 <a href=""></a></br>
