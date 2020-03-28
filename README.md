@@ -3,6 +3,7 @@
 <font size="72"><Strong>
  <a href="https://github.com/kennycaiguo/Kenny_javaebook-And-source-code">Java电子书，以及数据库常用依赖jar包，非常重要</a></br>
  <a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
+ <a href="https://github.com/kennycaiguo/java">传智播客-黑马32期</a></br>
  <a href="https://github.com/kennycaiguo/java-course">Course about Java and Java EE</a></br>
  <a href="https://github.com/kennycaiguo/BiXiangdong">智播客毕向东老师的视频笔记，请打开____...BiXiangdong.md____查看</a></br>
  <a href="https://github.com/kennycaiguo/docs">Java知识总结:MySQL实战45讲,多线程和JVM知识总结，，SpringBoot，SpringCloud，Storm系列，微信小程序开发，ELK,《JAVA核心技术36讲笔记》，《深入理解JVM虚拟机笔记》,《高性能MySQL笔记》，《数据结构与算法》等等</a></br>
@@ -15,7 +16,8 @@
 <a href="https://github.com/kennycaiguo/note-book">新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记</a></br>
 <a href="https://github.com/kennycaiguo/heima-Java-ee">黑马Java ee就业班笔记</a><br/>
 <a href="https://github.com/kennycaiguo/java-course-ee">This repository is for advanced course examples</a></br>
-
+<a href="https://github.com/kennycaiguo/ProjectDemo">简单的游戏门户网站开发，运行环境：jdk8+tomcat7.0+oracle11g mysql+eclipse+随便一个浏览器，大概的功能：1、注册，登陆、重置密码，2、用户查询、购物车、购买，模糊搜索，3、管理员搜索、添加、修改信息。（单机版）</a></br>
+<a href="https://github.com/kennycaiguo/springboot-web">springboot-web基础框架，供日后使用</a></br>
 <a href="https://github.com/kennycaiguo/MVC2_Portfolio">Apache,Tomcat7.0,jdk1.8,Oracle11g,Eclipse</a></br>
 <a href="https://github.com/kennycaiguo/understanding-the-jvm">《深入理解 Java 虚拟机》阅读笔记</a></br>
 <Strong></font>
@@ -28,6 +30,7 @@
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
+<a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
 ### 网络前端开发
@@ -66,16 +69,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<a href=" "></a></br>
-<a href=" "></a></br>
-<a href=" "></a></br>
-<a href=" "></a></br> 
