@@ -4,6 +4,8 @@
  <a href="https://github.com/kennycaiguo/Kenny_javaebook-And-source-code">Java电子书，以及数据库常用依赖jar包，非常重要</a></br>
  <a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
  <a href="https://github.com/kennycaiguo/java-course">Course about Java and Java EE</a></br>
+ <a href="https://github.com/kennycaiguo/BiXiangdong">智播客毕向东老师的视频笔记，请打开____...BiXiangdong.md____查看</a></br>
+ <a href="https://github.com/kennycaiguo/docs">Java知识总结:MySQL实战45讲,多线程和JVM知识总结，，SpringBoot，SpringCloud，Storm系列，微信小程序开发，ELK,《JAVA核心技术36讲笔记》，《深入理解JVM虚拟机笔记》,《高性能MySQL笔记》，《数据结构与算法》等等</a></br>
 <a href="https://github.com/kennycaiguo/Code">Java学习过程中笔记的配套代码</a></br>
 <a href="https://github.com/kennycaiguo/learn-java-codes">该仓库主要用于存放Java学习相关代码，相关笔记存放于 https://github.com/caojx-git/learn-java-notes 仓库</a></br>
 <a href="https://github.com/kennycaiguo/learn-java-notes">存放Java学习相关代码，相关笔记</a></br>
@@ -13,6 +15,7 @@
 <a href="https://github.com/kennycaiguo/note-book">新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记</a></br>
 <a href="https://github.com/kennycaiguo/heima-Java-ee">黑马Java ee就业班笔记</a><br/>
 <a href="https://github.com/kennycaiguo/java-course-ee">This repository is for advanced course examples</a></br>
+<a href="https://github.com/kennycaiguo/understanding-the-jvm">《深入理解 Java 虚拟机》阅读笔记</a></br>
 <Strong></font>
 **************************************************************************************************************************************
 ## 其他编程语言<br/>
@@ -62,9 +65,9 @@
 
 
 
-<a href=" "></a></br>
-<a href=" "></a></br>
-<a href=" "></a></br>
+
+
+
 <a href=" "></a></br>
 <a href=" "></a></br>
 <a href=" "></a></br>
