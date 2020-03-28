@@ -10,6 +10,7 @@
 <a href="https://github.com/kennycaiguo/sql-docs">Technical documentation for Microsoft SQL Server</a></br>
 <a href="https://github.com/kennycaiguo/win10install.net-framework">windows 10 insatll .net framework</a></br>
 <a href="https://github.com/kennycaiguo/MySql">mysql 数据库的sql备份</a></br>
+<a href="https://github.com/kennycaiguo/java-course">Course about Java and Java EE</a></br>
 <Strong></font>
 <a href="https://github.com/kennycaiguo/heima-Java-ee">黑马Java ee就业班笔记</a><br/>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
@@ -24,11 +25,9 @@
 <a href="https://github.com/kennycaiguo/mongo-python-driver">PyMongo - the Python driver for MongoDB</a></br>
 <a href="https://github.com/kennycaiguo/mongo-csharp-driver"></a></br>
 <a href="NET Driver for MongoDB">NET Driver for MongoDB</a></br>
-
-<a href=" "></a></br>
-<a href=" "></a></br>
-<a href=" "></a></br>
-<a href=" "></a></br>
+<a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
+<a href="https://github.com/kennycaiguo/Code">Java学习过程中笔记的配套代码</a></br>
+<a href="https://github.com/kennycaiguo/learn-java-codes">该仓库主要用于存放Java学习相关代码，相关笔记存放于 https://github.com/caojx-git/learn-java-notes 仓库</a></br>
 <a href=" "></a></br>
 <a href=" "></a></br>
 <a href=" "></a></br>
