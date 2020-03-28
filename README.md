@@ -7,6 +7,9 @@
 <a href="https://github.com/kennycaiguo/learn-java-notes">存放Java学习相关代码，相关笔记</a></br>
 <a href="https://github.com/kennycaiguo/java-reader">Java工程师学习历程与笔记，附含算法、Java基础、框架实战、框架源码、框架实现、中间件、面试题等知识和学习蓝图</a></br>
 <a href="https://github.com/kennycaiguo/javaitcast">传智javaee 33期课程</a></br>
+<a href="https://github.com/kennycaiguo/Employment-class">Java 就业班作业</a></br>
+<a href="https://github.com/kennycaiguo/note-book">新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记</a></br>
+**************************************************************************************************************************************
 <a href="https://github.com/kennycaiguo/cSharp">C#常用代码以及电子书，操作各种数据库的demo</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
@@ -34,8 +37,7 @@
 <a href="NET Driver for MongoDB">NET Driver for MongoDB</a></br>
 <a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
 
-<a href=" "></a></br>
-<a href=" "></a></br>
+
 <a href=" "></a></br>
 <a href=" "></a></br>
 <a href=" "></a></br>
