@@ -51,10 +51,10 @@
 <a href="https://github.com/kennycaiguo/DevNote">开发笔记</a></br>
 <a href="https://github.com/kennycaiguo/struts2_MRbie">struts2的学习笔记</a></br>
 <a href="https://github.com/kennycaiguo/JavaEE-SSH-Template">javaEE+SSH框架模板项目</a></br>
-<a href=""></a></br>
-<a href=""></a></br>
-<a href=""></a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/suitangdaima">随堂代码传智播客</a></br>
+<a href="https://github.com/kennycaiguo/SocialNetworkingSite">Java.Oracle11g.Tomcat8.Servlet</a></br>
+<a href="https://github.com/kennycaiguo/learnSource">传智播客学习资料</a></br>
+<a href="https://github.com/kennycaiguo/ITCast">自学JavaWEB</a></br>
 ## 《Java就业班》
 <a href="https://github.com/kennycaiguo/LearnForJavaWeb">就业班学习过程</a></br>
 <a href="https://github.com/kennycaiguo/JavaEE-projects">:octocat:存放一些自己写的还有从不同开源社区fork下来的JavaEE项目，其中就不乏一些很多企业单位都在用的源码。</a><br/>
@@ -71,12 +71,14 @@
 <a href="https://github.com/kennycaiguo/itheima-base">黑马Java培训代码（2017/04/15基础班+05/14就业班）</a></br>
 <a href="https://github.com/kennycaiguo/shop">传智商城</a></br>
 <a href="https://github.com/kennycaiguo/jingxi_shop-tp3.2">京西商城-传智播客39期</a></br>
-
+<a href="https://github.com/kennycaiguo/-Shop">传智播客168期视频教程 SSH框架项目</a><br/>
 
 ### 《Java Swing》
 <a href="https://github.com/kennycaiguo/AcademyDB">use java swing component & oracle11g</a><br/>
 ### 《Java爬虫》
 <a href="https://github.com/kennycaiguo/spider">传播智客培训视频中爬虫的相关</a></br>
+<a href="https://github.com/kennycaiguo/BaiduBaikeSpider">百度百科多线程爬虫Java源码，数据存储采用了Oracle11g</a><br/>
+
 ### 《安卓开发》
 <a href="https://github.com/kennycaiguo/screen-camera-android">一种基于二维码流的Android智能手机文件传输方法</a></br>
 <a href=""></a></br>
