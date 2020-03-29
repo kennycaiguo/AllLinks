@@ -35,8 +35,8 @@
 <a href="https://github.com/kennycaiguo/chuanzhi_workspace">传智工作代码</a></br>
 <a href="https://github.com/kennycaiguo/Springboot-JPA-Oracle11g">使用springboot2.1.5+JPA+oracle11g来进行操作</a></br>
 <a href="https://github.com/kennycaiguo/java-technology-stack">分享Java工程师必备的技术栈笔记</a></br>
-<a href=""></a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/JavaWebCoreNote">为Java初学者提供的快速对javaweb核心阶段进行学习、复习的笔记</a></br>
+<a href="https://github.com/kennycaiguo/java-jakarta-ee">Just some Java EE and Jakarta EE examples and tutorials(TomCat)</a></br>
 <a href=""></a></br>
 <Strong></font>
 **************************************************************************************************************************************
