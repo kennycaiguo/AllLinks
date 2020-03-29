@@ -155,12 +155,18 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/taseikyo/PyQt5-Apps">📎Some useful apps based on PyQt5. | 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.(他人仓库)</a></br>
 <a href="https://github.com/Wangler2333/tcp_udp_web_tools-pyqt5">运用逻辑与界面分离的思想，使用pyqt5+socket模块编写图形化TCP/UDP/WEB通信工具(他人仓库)</a></br>
 <a href="https://github.com/fengtangzheng/pyqt5-opencv-video">pyqt5 + opencv 实现视频播放，支持实时流，支持远程文件(他人仓库)</a></br>
+<a href="https://github.com/yangninghua/python-pyqt5-opencv">基于python和pyqt5，实现opencv图像处理，包含内容有基本的图像处理，人脸检测和识别，图像检索以及基于图像描述符的搜索，目标检测与识别，目标跟踪，opencv神经网络(他人仓库)</a></br>
+<a href="https://github.com/jimmykuu/PyQt-PySide-Cookbook">PyQt/PySide Cookbook(他人仓库)</a></br>
+<a href="https://github.com/xugongli/PyQt5-BaiduMapCrawler">一个基于pyqt5的百度地图兴趣点GUI采集工具，可根据关键词搜索指定区域的兴趣点，并导出为excel文件(他人仓库)</a></br>
+<a href="https://github.com/qq1162667214/pyqt5-matplotlib-tushare-">用tushare获取股票历史行情，以及实时行情，并用matplotlib嵌入pyqt5中，达到数据可视化，可操作的目的(他人仓库)</a></br>
+<a href="https://github.com/nick125/ArduinoIDE-PyQt">An Arduino IDE written in PyQt and Python(他人仓库)</a></br>
+<a href="https://github.com/qddegtya/PyQtLab">PyQt 实验室(他人仓库)</a></br>
+<a href="https://github.com/langzhou/simple-markpad">a markdown editor made with pyqt(他人仓库)</a></br>
+<a href="https://github.com/WEIYANLIN1996/pyqt5-QQ">利用python PyQt5图形库开发的一个基于tcp协议仿QQ聊天pc软件工具(他人仓库)</a></br>
+<a href="https://github.com/chroming/awesome-pyqt-cn">PyQt/PySide 中文开发者必备资料合集(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
