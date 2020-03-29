@@ -141,7 +141,8 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/BankManagement">Bank Management project Using Python and Oracle11g</a><br/>
 <a href="https://github.com/kennycaiguo/Heima-Python-2018">传智播客 黑马 2018年三期Python培训笔记</a></br>
 <a href="https://github.com/kennycaiguo/mongodb-engine">Django MongoDB Backend</a><br/>
-### <Python 爬虫>
+## <Python 爬虫>
+<a href="https://github.com/simapple/spider">python爬虫 全球网址URL滚动提取(他人仓库)</a></br>
 <a href="https://github.com/kennycaiguo/scrapy-mongodb">MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.</a></br>
 <a href="https://github.com/dlee992/WebCrawlerExample">PyQt+Scrapy+MongoDB</a><br/>
 <a href="https://github.com/jhao104/proxy_pool">Python爬虫代理IP池(proxy pool)(他人仓库)</a></br>
@@ -154,6 +155,24 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/LUCY78765580/Python-web-scraping">python爬虫，包含大小项目(他人仓库)</a></br>
 <a href="https://github.com/facert/tumblr_spider">汤不热 python 多线程爬虫(他人仓库)</a></br>
 <a href="https://github.com/xianhu/PSpider">简单易用的Python爬虫框架，QQ交流群：597510560(他人仓库)</a></br>
+<a href="https://github.com/fst034356/crawler">python爬虫练习(他人仓库)</a></br>
+<a href="https://github.com/Adyzng/jd-autobuy">Python爬虫，京东自动登录，在线抢购商品(他人仓库)</a></br>
+<a href="https://github.com/dataabc/weibo-crawler">新浪微博爬虫，用python爬取新浪微博数据(他人仓库)</a></br>
+<a href="https://github.com/Alfred1984/interesting-python">有趣的Python爬虫和Python数据分析小项目(他人仓库)</a></br>
+<a href="https://github.com/yhangf/PythonCrawler">💗用python编写的爬虫项目集合(他人仓库)</a></br>
+<a href="https://github.com/rieuse/learnPython">Python的基础练习代码与各种爬虫代码(他人仓库)</a></br>
+<a href="https://github.com/injetlee/Python">Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机(他人仓库)</a></br>
+<a href="https://github.com/StephinChou/Pythonspider">一个简单的python爬虫，原生python+BeautifulSoup(他人仓库)</a></br>
+<a href="https://github.com/blueskyz/DHTCrawler">python 编写的DHT Crawler 网络爬虫，抓取磁力链接(他人仓库)</a></br>
+<a href="https://github.com/qiyeboy/SpiderBook"><<python爬虫开发与项目实战>>书籍配套源码和说明(他人仓库)</a></br>
+<a href="https://github.com/Ehco1996/Python-crawler">从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6(他人仓库)</a></br>
+<a href="https://github.com/0x45f/PythonSpider">python爬虫的练习(他人仓库)</a></br>
+<a href="https://github.com/PyCN/dianping_data">python爬虫实战练习手册(他人仓库)</a></br>
+<a href="https://github.com/521xueweihan/PySpider">Python爬虫的学习历程(他人仓库)</a></br>
+<a href="https://github.com/WuLC/AmazonRobot">Amazon商品引流的 python 爬虫(他人仓库)</a></br>
+<a href="https://github.com/makcyun/web_scraping_with_python">Python 入门爬虫和数据分析实战(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 ### PyQt
