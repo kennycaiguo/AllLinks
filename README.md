@@ -44,10 +44,20 @@
 <a href="https://github.com/kennycaiguo/spring-hibernate-servlet">spring4+hibernate5+servlet+oracle11g+logback+bootstrap</a><br/>
 <a href="https://github.com/kennycaiguo/Java-1">Java学习笔记</a><br/>
 <a href="https://github.com/kennycaiguo/SSH_Learn">Struts2学习笔记</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/Struts2-Learning">Struts 2 的一些学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/Javas">主要关于java API中OOP、IO流、网络、反射和多线程并发编程等代码，结合《Thinking in java 4th Edition》一书，代码主要参考了传智播客刘意老师的课程代码。</a></br>
+<a href="https://github.com/kennycaiguo/CRMSystem">客户关系管理系统（传智播客），实现了客户和联系人的管理功能，主要是学习struts2+hibernate的整合</a></br>
+<a href="https://github.com/kennycaiguo/java-core">传智播客Java培训毕向东_Java基础_2011</a></br>
 <a href=""></a></br>
 ## 《Java就业班》
 <a href="https://github.com/kennycaiguo/LearnForJavaWeb">就业班学习过程</a></br>
+<a href="https://github.com/kennycaiguo/JavaEE-projects">:octocat:存放一些自己写的还有从不同开源社区fork下来的JavaEE项目，其中就不乏一些很多企业单位都在用的源码。</a><br/>
+<a href="https://github.com/kennycaiguo/goods">传智播客的图书商城</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+
+
 ### 《Java爬虫》
 <a href="https://github.com/kennycaiguo/spider">传播智客培训视频中爬虫的相关</a></br>
 ### 《安卓开发》
@@ -65,9 +75,7 @@
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
 ### <c++>
 <a href="https://github.com/kennycaiguo/GeneticAlgorithm">这是用C++写的遗传算法，参考《智能算法 30案例分析 第2版》一书，包含TSP、LQR控制器、结合量子算法、多目标优化、粒子群等，由于原作为matlab程序，综合自己思路通过C++写出来，算是练习和开个大坑</a><br/>
-### <Python>
- <a href="https://github.com/kennycaiguo/dailyfresh">传智播客python培训中django_web的一个天天生鲜的电商项目</a><br/> 
-<a href="https://github.com/kennycaiguo/ebook.python">python ebook</a></br>
+
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
@@ -76,10 +84,16 @@
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
 <a href="https://github.com/kennycaiguo/jQuery_ziyi2">jQuery2.0.3源码分析笔记</a><br/>
+### <Python>
+<a href="https://github.com/kennycaiguo/dailyfresh">传智播客python培训中django_web的一个天天生鲜的电商项目</a><br/> 
+<a href="https://github.com/kennycaiguo/ebook.python">python ebook</a></br>
 <a href="https://github.com/kennycaiguo/WebHubBot">Python + Scrapy + MongoDB . 5 million data per day !!!💥 The world's largest website.</a></br>
 <a href="https://github.com/kennycaiguo/BankManagement">Bank Management project Using Python and Oracle11g</a><br/>
 <a href="https://github.com/kennycaiguo/Heima-Python-2018">传智播客 黑马 2018年三期Python培训笔记</a></br>
 <a href="https://github.com/kennycaiguo/mongodb-engine">Django MongoDB Backend</a><br/>
+### <Python 爬虫>
+<a href="https://github.com/kennycaiguo/scrapy-mongodb">MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.</a></br>
+<a href=""></a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
@@ -92,6 +106,7 @@
 <a href="https://github.com/kennycaiguo/sql-docs">Technical documentation for Microsoft SQL Server</a></br>
 <a href="https://github.com/kennycaiguo/MySql">mysql 数据库的sql备份</a></br>
 <a href="https://github.com/kennycaiguo/Learn-MongoDB">mongodb 学习资料</a></br>
+<a href="https://github.com/kennycaiguo/the-little-mongodb-book-cn">The Little MongoDB Book 中文版</a><br/>
 <a href="https://github.com/kennycaiguo/mongo-ruby-driver">mongo-ruby驱动，给以合留一条路+_+</a></br>
 <a href="https://github.com/kennycaiguo/djongo">Django and MongoDB database connector数据库mongodb连接驱动</a></br>
 <a href="https://github.com/kennycaiguo/mongo-c-driver">A high-performance MongoDB driver for C</a></br>
