@@ -83,8 +83,8 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/jingxi_shop-tp3.2">京西商城-传智播客39期</a></br>
 <a href="https://github.com/kennycaiguo/-Shop">传智播客168期视频教程 SSH框架项目</a><br/>
 <a href="https://github.com/kennycaiguo/babashop_JPA">该工程是基于SSJ(Sturts+Spring+JPA)框架电子商务管理系统，是黎活明老师传智播客JPA视频系列成果，这里参照视频实现了其中的80%功能，适合SSH刚入门的童鞋模仿着学习；</a><br/>
-<a href=""></a></br>
-<a href=""></a></br>
+<a href="https://github.com/lzx8589561/ZTool">pyqt + qt quick qml mysql管理工具</a></br>
+<a href="https://github.com/djun/PyQtPicsCrawler">PyQt图片抓取演示程序</a></br>
 <a href=""></a></br>
 
 ### 《Java Swing》
@@ -97,7 +97,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/screen-camera-android">一种基于二维码流的Android智能手机文件传输方法</a></br>
 <a href="https://github.com/kennycaiguo/DataCollection">基于智能手机的传感器数据采集系统</a></br>
 <a href="https://github.com/kennycaiguo/ProductList">传智播客Android课本，第5章例子</a></br>
-<a href=""></a></br>
+<a href="https://github.com/NathanZabriskie/GraphCut">Graph cut image segmentation with custom GUI.</a></br>
 <a href=""></a></br>
 <Strong></font>
 **************************************************************************************************************************************
