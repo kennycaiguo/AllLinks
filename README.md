@@ -202,11 +202,11 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/happyAnger6/anger6Spider">python爬虫学习(他人仓库)</a></br>
 <a href="https://github.com/ling7334/Novel-crawler">这是一个用Python写的小说爬虫软件(他人仓库)</a></br>
 <a href="https://github.com/AbelSu131/baike_spider">python爬虫爬取百度百科页面(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
+<a href="https://github.com/PythonLoversZone/Learn-Python-Crawler">Python爬虫学习路径图(他人仓库)</a></br>
+<a href="https://github.com/jobbole/awesome-python-cn">Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。(他人仓库)</a></br>
+<a href="https://github.com/KKys/spider_study">python爬虫学习笔记(他人仓库)</a></br>
+<a href="https://github.com/TianzhongSong/Python3-Spiders">一些python爬虫程序(他人仓库)</a></br>
+<a href="https://github.com/liyaopinner/ArticleSpider-resourses">python分布式爬虫打造搜索引擎课程的资源(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
