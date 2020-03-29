@@ -87,7 +87,7 @@
 ### 《安卓开发》
 <a href="https://github.com/kennycaiguo/screen-camera-android">一种基于二维码流的Android智能手机文件传输方法</a></br>
 <a href="https://github.com/kennycaiguo/DataCollection">基于智能手机的传感器数据采集系统</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/ProductList">传智播客Android课本，第5章例子</a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 <Strong></font>
@@ -120,6 +120,8 @@
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
 <a href="https://github.com/kennycaiguo/jQuery_ziyi2">jQuery2.0.3源码分析笔记</a><br/>
+<a href="https://github.com/kennycaiguo/mongoeduc">MongoDB University Courses</a><br/>
+
 ### <Python>
 <a href="https://github.com/kennycaiguo/dailyfresh">传智播客python培训中django_web的一个天天生鲜的电商项目</a><br/> 
 <a href="https://github.com/kennycaiguo/ebook.python">python ebook</a></br>
