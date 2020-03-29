@@ -240,8 +240,21 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/happyte/buyhouse">🏠基于python的scrapy爬虫，爬取链家网成都地区新房源，并用高德api在地图上可视化显示(他人仓库)</a></br>
 <a href="https://github.com/cwjokaka/ok_ip_proxy_pool">🍿爬虫代理IP池(proxy pool) python🍟一个还ok的IP代理池,先做给自己用着~(他人仓库)</a></br>
 <a href="https://github.com/cyhhao/CrawlerImage">用python写的爬虫，用来镜像一个网站到本地(他人仓库)</a></br>
+<a href="https://github.com/zaxlct/baike-spider">一个简单的 Python 爬虫系统示例(他人仓库)</a></br>
+<a href="https://github.com/ScrappyZhang/python_web_Crawler_DA_ML_DL">python从最基础的语法历经网络基础、前端基础、后端基础和爬虫与数据基础走向机器学习(他人仓库)</a></br>
+<a href="https://github.com/GoghVan/VideoSpider">Python爬虫-视频下载(他人仓库)</a></br>
+<a href="https://github.com/bobiscool/crawl-neteasemusic">学习python爬虫，参考 https://github.com/dongweiming/commentbox , 爬取网易云音乐评论(他人仓库)</a></br>
+<a href="https://github.com/zhangkai3110/JD_AutoSubmit">ython爬虫，京东自动登录，指定商品自动加购物车，自动下单，指定时间抢购商品 (QQ交流群：348885782)(他人仓库)</a></br>
+<a href="https://github.com/xiyouMc/SmzdmSpider">什么值得买 Python 爬虫项目 同步到 https://github.com/PythonSpiderMan/SmzdmSpider(他人仓库)</a></br>
+<a href="https://github.com/dev-techmoe/python-dcdownloader">由Python编写的全异步实现的动漫之家(dmzj)漫画批量下载器（爬虫）(他人仓库)</a></br>
+<a href="https://github.com/MagicDu/mywpspider">增强版Python+wordpress爬虫(他人仓库)</a></br>
+<a href="https://github.com/KaidiGuo/keyword_based_Sina_weibo_crawler">A web crawler for Sina, search and retrieve microblogs that contain certain keywords 一个简单的python爬虫实践，爬取包含关键词的新浪微博(他人仓库)</a></br>
+<a href="https://github.com/Lonely7th/TsSpiderServer">python实现的数据爬虫和数据接口(他人仓库)</a></br>
+<a href="https://github.com/acrazing/dbapi">基于HTML爬虫的豆瓣小组API(Python版本)(他人仓库)</a></br>
+<a href="https://github.com/zhonglikui/Spiders">python爬虫集合(他人仓库)</a></br>
+<a href="https://github.com/pangxiaobin/proxy_ip_pool">python编写的爬虫代理ip池(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
+
 
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
@@ -284,6 +297,46 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/GoLang-go-">go语言学习资料</a><br/>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
+
+## 【rust(R语言)】
+<a href="https://pc.qq.com/detail/14/detail_13114.html">R语言下载</a><br/>
+<a href="https://www.w3cschool.cn/r/">R语言教程</a><br/>
+<a href="https://zhuanlan.zhihu.com/p/39444793">R语言教程国内教程</a><br/>
+<a href="https://github.com/yihui/r-ninja">R语言忍者秘笈(他人仓库)</a></br>
+<a href="https://github.com/qinwf/awesome-R/tree/master/misc">R语言资源3</a><br/>
+<a href="https://github.com/harryprince/R-Tutor">R语言学习资料(他人仓库)</a></br>
+<a href="https://github.com/Mounment/R-Project">R语言项目(他人仓库)</a></br>
+<a href="https://github.com/EasyChart/Beautiful-Visualization-with-R">《R语言数据可视化之美》配套代码(他人仓库)</a></br>
+<a href="https://github.com/cosname/art-r-translation">《R语言编程艺术》翻译项目文件(他人仓库)</a></br>
+<a href="https://github.com/qinwf/jiebaR">Chinese text segmentation with R. R语言中文分词 （文档已更新 🎉 ：https://qinwenfeng.com/jiebaR/ )(他人仓库)</a></br>
+<a href="https://github.com/allenlu2008/RDemo">虾神的R语言Demo(他人仓库)</a></br>
+<a href="https://github.com/cador/Predictive-Practice-With-R">《R语言预测实战》书籍数据及代码(他人仓库)</a></br>
+<a href="https://github.com/jiabiao1602/Game_DataMining_With_R">R语言游戏数据分析与挖掘(他人仓库)</a></br>
+<a href="https://github.com/yanping/r-spring-camp">【统计之都&SupStat】R语言春令营(他人仓库)</a></br>
+<a href="https://github.com/yanlinlin82/Rmagic">解构R语言中的“黑魔法”(他人仓库)</a></br>
+<a href="https://github.com/renkun-ken/r-data-practice">R语言数据操作练习(他人仓库)</a></br>
+<a href="https://github.com/xiaofanzhao/NOTE">关于R语言学习或者看书笔记(他人仓库)</a></br>
+<a href="https://github.com/linzhouzhi/recommend">R 语言实现的常用的推荐算法itemCF,UserCF ,Tags,SVD,Apriori(他人仓库)</a></br>
+<a href="https://github.com/Lchiffon/Rweixin">R语言与微信公众号接口(他人仓库)</a></br>
+<a href="https://github.com/edvardHua/JobRequirementAnalysis">📉 使用 R 语言从拉勾网看数据挖掘岗位现状(他人仓库)</a></br>
+<a href="https://github.com/fanqi/data-analysis-r-in-action">《数据分析：R语言实战》一书的源程序(他人仓库)</a></br>
+<a href="https://github.com/Lchiffon/Example-for-R-Weixin">一个R语言与微信公众号接口的实践(他人仓库)</a></br>
+<a href="https://github.com/ysxubj/R-inaction">R语言实战课本代码 第二版(他人仓库)</a></br>
+<a href="https://github.com/mazhenkai/bianlidian">北京和上海便利店差异，主要包含数据收集和作图用的r语言脚本(他人仓库)</a></br>
+<a href="https://github.com/txHe/R-TextClassification">用R语言做文本分类(他人仓库)</a></br>
+<a href="https://github.com/TuGengs/Text_Mining">基于R语言的文本挖掘，用于分析演讲人的情感成分(他人仓库)</a></br>
+<a href="https://github.com/VianLee/R">R语言学习路线 (Learning Route @ R)(他人仓库)</a></br>
+<a href="https://github.com/leovan/data-science-introduction-with-r">R 语言数据科学导论 | Data Science Introduction with R | https://ds-r.leovan.tech(他人仓库)</a></br>
+
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+### 【R语言爬虫】
+<a href="https://github.com/Leo-Lee15/Webscrapping">R语言爬虫；Python爬虫；rvest；Rcurl(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
 
 **************************************************************************************************************************************
 ## 数据库<br/>
