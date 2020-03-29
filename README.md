@@ -237,6 +237,9 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kz26/dottorrent-gui"> GUI torrent file creator with batch functionality(他人仓库)</a></br>
 <a href="https://github.com/develersrl/qt-pyqt-sdk-builder">Create your custom Qt + PyQt SDK for multiple platforms(他人仓库)</a></br>
 <a href="https://github.com/HuberTRoy/MusicBox">🎵 MusicPlayer 一站式收听多平台音乐(网易云, 虾米, QQ)的跨平台音乐播放器，尽情享受吧~✨(他人仓库)</a></br>
+
+### 【go语言】
+<a href="https://github.com/kennycaiguo/GoLang-go-">go语言学习资料</a><br/>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
@@ -280,8 +283,8 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/centos7_oracle_sql">在centos7上部署oracle11g，并学习oracle的基本sql操作</a><br/>
 <a href="https://github.com/kennycaiguo/mongodb_Tutorials-for-Web-Developers">Tutorials for web developers including bash scripting, Linux commands, MongoDB. Actively updating.</a><br/>
 **************************************************************************************************************************************
-
-<a href=""></a></br>
+## 电脑数学
+<a href="https://github.com/kennycaiguo/Computer-math">电脑数学资料，电子书</a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
