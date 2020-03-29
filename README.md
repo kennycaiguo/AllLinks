@@ -164,7 +164,15 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/langzhou/simple-markpad">a markdown editor made with pyqt(他人仓库)</a></br>
 <a href="https://github.com/WEIYANLIN1996/pyqt5-QQ">利用python PyQt5图形库开发的一个基于tcp协议仿QQ聊天pc软件工具(他人仓库)</a></br>
 <a href="https://github.com/chroming/awesome-pyqt-cn">PyQt/PySide 中文开发者必备资料合集(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
+<a href="https://github.com/NathanZabriskie/GraphCut">Graph cut image segmentation with custom GUI.(他人仓库)</a></br>
+<a href="https://github.com/JiageWang/opencv-pyqt5">使用opencv与pyqt5实现的图像处理程序，已实现转灰度图、图像平滑、形态学操作、梯度计算、阈值处理、边缘检测、轮廓检测(他人仓库)</a></br>
+<a href="https://github.com/abnd90/py-cloudapp">A drag drop uploader to cloudapp (PyQt)(他人仓库)</a></br>
+<a href="https://github.com/Oslomayor/PyQt5-SerialPort-Stable">PyQt5 写的 GUI 串口调试助手稳定版(他人仓库)</a></br>
+<a href="https://github.com/Simsys/qhexedit2">Binary Editor for Qt(他人仓库)</a></br>
+<a href="https://github.com/156101zhj/python-PyQt5">python3.5 + PyQt5模拟QQ聊天，文件传输以及游戏(他人仓库)</a></br>
+<a href="https://github.com/elsampsa/valkka-core">视频监控Create video surveillance(他人仓库)</a></br>
+<a href="https://github.com/vstorm/Groove">python3+pyqt写的豆瓣FM客户端(他人仓库)</a></br>
+<a href="https://github.com/cundi/Python-PySide-PyQt-Tutorial">PySide 与 PyQt 入门教程集合(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 ### 网络前端开发
