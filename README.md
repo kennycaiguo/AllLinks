@@ -60,7 +60,7 @@
 <a href="https://github.com/kennycaiguo/JavaEE-Servlet-JSP-Javabean">Forked from SalemSaiid/JavaEE-Servlet-JSP-Javabean
 Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/DoranMall_SpringFramework">SpringFramework + Oracle11g + Mybatis + Maven</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/spring-mongodb-tutorial">Spring和mongodb</a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
@@ -108,7 +108,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
 <a href="https://github.com/kennycaiguo/MongoDB.AspNet.Identity">ASP.NET Identity provider that uses MongoDB for storage</a><br/>
 <a href="https://github.com/kennycaiguo/CodeGen">C#版的代码生成器，使用VS2013开发。支持SQLServer（2000，2005，008），Oracle11g，MySQL数据库。可以自动生成业务对象，后台逻辑，前台页面等代码，可以通过该程序浏览数据库的表结构等。</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/mongodb-csharp">A driver written in c# to connect to the MongoDB document oriented</a></br>
 <a href=""></a></br>
 ### <c++>
 <a href="https://github.com/kennycaiguo/GeneticAlgorithm">这是用C++写的遗传算法，参考《智能算法 30案例分析 第2版》一书，包含TSP、LQR控制器、结合量子算法、多目标优化、粒子群等，由于原作为matlab程序，综合自己思路通过C++写出来，算是练习和开个大坑</a><br/>
