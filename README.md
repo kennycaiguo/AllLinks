@@ -147,6 +147,20 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
 <a href="https://github.com/kennycaiguo/ebook.python/tree/master/PyQt%2Bsource%20code">pyqt电子书</a><br/>
+<a href="https://github.com/cxinping/PyQt5">《PyQt5快速开发与实战》配套代码(他人仓库)</a><br/>
+<a href="https://github.com/maicss/PyQt5-Chinese-tutorial">PyQt5中文教程(他人仓库)</a></br>
+<a href="https://github.com/geekori/pyqt5">PyQt5视频课程源代码(他人仓库)</a></br>
+<a href="https://github.com/douxiao/detect_face_pyqt5">该项目基于python-contrib-opencv,dlib,pyqt5。能够实现电脑端摄像头读取视频，实时人脸录入，人脸检测，人脸识别等功能。(他人仓库)</a></br>
+<a href="https://github.com/falseen/shadowsocks-pyqt">一个用PyQt5实现的shadowsocks 客户端, 可以在 windows、linux、OSX 等平台上运行(他人仓库)</a></br>
+<a href="https://github.com/taseikyo/PyQt5-Apps">📎Some useful apps based on PyQt5. | 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.(他人仓库)</a></br>
+<a href="https://github.com/Wangler2333/tcp_udp_web_tools-pyqt5">运用逻辑与界面分离的思想，使用pyqt5+socket模块编写图形化TCP/UDP/WEB通信工具(他人仓库)</a></br>
+<a href="https://github.com/fengtangzheng/pyqt5-opencv-video">pyqt5 + opencv 实现视频播放，支持实时流，支持远程文件(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
