@@ -55,6 +55,11 @@
 <a href="https://github.com/kennycaiguo/SocialNetworkingSite">Java.Oracle11g.Tomcat8.Servlet</a></br>
 <a href="https://github.com/kennycaiguo/learnSource">传智播客学习资料</a></br>
 <a href="https://github.com/kennycaiguo/ITCast">自学JavaWEB</a></br>
+<a href="https://github.com/kennycaiguo/SSMtest">Spring MVC+Spring+Mybatis+Oracle11G</a><br/>
+<a href="https://github.com/kennycaiguo/note">java学习笔记</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+
 ## 《Java就业班》
 <a href="https://github.com/kennycaiguo/LearnForJavaWeb">就业班学习过程</a></br>
 <a href="https://github.com/kennycaiguo/JavaEE-projects">:octocat:存放一些自己写的还有从不同开源社区fork下来的JavaEE项目，其中就不乏一些很多企业单位都在用的源码。</a><br/>
@@ -81,7 +86,7 @@
 
 ### 《安卓开发》
 <a href="https://github.com/kennycaiguo/screen-camera-android">一种基于二维码流的Android智能手机文件传输方法</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/DataCollection">基于智能手机的传感器数据采集系统</a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
@@ -93,10 +98,16 @@
 <a href="https://github.com/kennycaiguo/Csharp-mongoDb">Csharp操作mongodb示例</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
 <a href="https://github.com/kennycaiguo/MongoDB.AspNet.Identity">ASP.NET Identity provider that uses MongoDB for storage</a><br/>
+<a href="https://github.com/kennycaiguo/CodeGen">C#版的代码生成器，使用VS2013开发。支持SQLServer（2000，2005，008），Oracle11g，MySQL数据库。可以自动生成业务对象，后台逻辑，前台页面等代码，可以通过该程序浏览数据库的表结构等。</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
 ### <c++>
 <a href="https://github.com/kennycaiguo/GeneticAlgorithm">这是用C++写的遗传算法，参考《智能算法 30案例分析 第2版》一书，包含TSP、LQR控制器、结合量子算法、多目标优化、粒子群等，由于原作为matlab程序，综合自己思路通过C++写出来，算是练习和开个大坑</a><br/>
-
+### <Qt>
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
+<a href="https://github.com/kennycaiguo/Qt_Study">Qt study code from 传智播客第五期完整版</a></br>
+<a href=""></a></br>
+
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
