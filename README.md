@@ -143,6 +143,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/mongodb-engine">Django MongoDB Backend</a><br/>
 ### <Python 爬虫>
 <a href="https://github.com/kennycaiguo/scrapy-mongodb">MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.</a></br>
+<a href="https://github.com/dlee992/WebCrawlerExample">PyQt+Scrapy+MongoDB</a><br/>
 
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
@@ -173,7 +174,12 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/elsampsa/valkka-core">视频监控Create video surveillance(他人仓库)</a></br>
 <a href="https://github.com/vstorm/Groove">python3+pyqt写的豆瓣FM客户端(他人仓库)</a></br>
 <a href="https://github.com/cundi/Python-PySide-PyQt-Tutorial">PySide 与 PyQt 入门教程集合(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
+<a href="https://github.com/TPayneExperience/LLP_026_MySQL_PyQt_Example">MySQL and PyQt demo tool for simple database storage(他人仓库)</a></br>
+<a href="https://github.com/q1271964185/Pyqt5_StudyNotes">pyqt5实战小程序代码分享(他人仓库)</a></br>
+<a href="https://github.com/ZedObaia/django-pyqt"> django and PyQt编程(他人仓库)</a></br>
+<a href="https://github.com/robdobsn/QtStockTicker">Stock ticker using PyQt(他人仓库)</a></br>
+<a href="https://github.com/kz26/dottorrent-gui"> GUI torrent file creator with batch functionality(他人仓库)</a></br>
+<a href="https://github.com/develersrl/qt-pyqt-sdk-builder">Create your custom Qt + PyQt SDK for multiple platforms(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
