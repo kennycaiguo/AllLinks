@@ -223,6 +223,23 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/ice-tong/TumblrSpider">scrapy编写的python爬虫，爬取汤不热上用户发布的图片与视频，下载到本地(他人仓库)</a></br>
 <a href="https://github.com/xiexiaoshinick/User-Python-Write-a-web-crawler">韦玮老师的《精通Python网络爬虫》配套代码(他人仓库)</a></br>
 <a href="https://github.com/ZhuoZhuoCrayon/pythonCrawler">python3网络爬虫笔记与实战源码。记录python爬虫学习全程笔记、参考资料和常见错误，约40个爬取实例与思路解析，涵盖urllib、requests、bs4、jsonpath、re、 pytesseract、PIL等常用库的使用(他人仓库)</a></br>
+<a href="https://github.com/osdodo/crawlhtmltopdf">一个将runoob.com转换成PDF的Python爬虫(他人仓库)</a></br>
+<a href="https://github.com/bobiscool/buyAhouseInChengdu">爬虫 python 🐍 前端canvas展现 🏮 百度地图 🏔(他人仓库)</a></br>
+<a href="https://github.com/moranzcw/Zhihu-Spider">一个获取知乎用户主页信息的多线程Python爬虫程序(他人仓库)</a></br>
+<a href="https://github.com/DragonFlyXD/baike-python">一个简单python爬虫,爬取百度百科python词条(他人仓库)</a></br>
+<a href="https://github.com/LeoLin9527/ZSpider">Python网络爬虫实战--红薯中文网、企名片、汽车之家(他人仓库)</a></br>
+<a href="https://github.com/monkey-soft/SchweizerMesser">🎯Python 3 网络爬虫实战、数据分析合集 | 当当 | 网易云音乐 | unsplash | 必胜客 | 猫眼 |(他人仓库)</a></br>
+<a href="https://github.com/yangruihan/baiduyun_spider">Python + MongoDB 开发的百度云资源爬虫(他人仓库)</a></br>
+<a href="https://github.com/Jueee/PythonWebCrawlers">Python 网络爬虫（Web Crawlers）学习笔记(他人仓库)</a></br>
+<a href="https://github.com/guoyinwang/NySpiderNotes">Python网络爬虫教程--模拟登录，验证码识别...(他人仓库)</a></br>
+<a href="https://github.com/GoJerry/JSCrack">Python爬虫进阶 JS 解密逆向实战(他人仓库)</a></br>
+<a href="https://github.com/cystanford/pachong">Python爬虫实例(他人仓库)</a></br>
+<a href="https://github.com/wudb1993/pythonDemo">这是一个python爬虫的若干个练习小demo(他人仓库)</a></br>
+<a href="https://github.com/KEN-LJQ/ZhihuSpider">知乎用户公开个人信息爬虫, 能够爬取用户关注关系，基于Python、使用代理、多线程(他人仓库)</a></br>
+<a href="https://github.com/Joezhangs/PythonSpider">这是一个专门记载python爬虫的存储库(他人仓库)</a></br>
+<a href="https://github.com/happyte/buyhouse">🏠基于python的scrapy爬虫，爬取链家网成都地区新房源，并用高德api在地图上可视化显示(他人仓库)</a></br>
+<a href="https://github.com/cwjokaka/ok_ip_proxy_pool">🍿爬虫代理IP池(proxy pool) python🍟一个还ok的IP代理池,先做给自己用着~(他人仓库)</a></br>
+<a href="https://github.com/cyhhao/CrawlerImage">用python写的爬虫，用来镜像一个网站到本地(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 
