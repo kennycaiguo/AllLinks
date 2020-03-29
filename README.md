@@ -39,6 +39,13 @@
 <a href="https://github.com/kennycaiguo/java-jakarta-ee">Just some Java EE and Jakarta EE examples and tutorials(TomCat)</a></br>
 <a href="https://github.com/kennycaiguo/JavaWeb">JavaWeb学习笔记</a></br>
 <a href="https://github.com/kennycaiguo/Java-EE-8-Application-Development-Code-Samples">Code samples for the book Java EE Application Development</a></br>
+<a href="https://github.com/kennycaiguo/itcast-1">传智练习</a></br>
+<a href="https://github.com/kennycaiguo/JavaEE_sunnyandgood">🔥⭐️👍框架(SSM/SSH)学习笔记</a></br>
+### 《Java爬虫》
+<a href="https://github.com/kennycaiguo/spider">传播智客培训视频中爬虫的相关</a></br>
+### 《安卓开发》
+<a href="https://github.com/kennycaiguo/screen-camera-android">一种基于二维码流的Android智能手机文件传输方法</a></br>
+<a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
