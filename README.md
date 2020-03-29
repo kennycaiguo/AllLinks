@@ -112,6 +112,8 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href=""></a></br>
 ### <c++>
 <a href="https://github.com/kennycaiguo/GeneticAlgorithm">这是用C++写的遗传算法，参考《智能算法 30案例分析 第2版》一书，包含TSP、LQR控制器、结合量子算法、多目标优化、粒子群等，由于原作为matlab程序，综合自己思路通过C++写出来，算是练习和开个大坑</a><br/>
+<a href="https://github.com/kennycaiguo/Cplusplus/">c/c++电子书以及资料</a><br>
+
 ### <Qt>
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
 <a href="https://github.com/kennycaiguo/Qt_Study">Qt study code from 传智播客第五期完整版</a></br>
@@ -171,6 +173,30 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/521xueweihan/PySpider">Python爬虫的学习历程(他人仓库)</a></br>
 <a href="https://github.com/WuLC/AmazonRobot">Amazon商品引流的 python 爬虫(他人仓库)</a></br>
 <a href="https://github.com/makcyun/web_scraping_with_python">Python 入门爬虫和数据分析实战(他人仓库)</a></br>
+<a href="https://github.com/1040003585/WebScrapingWithPython">用Python写网络爬虫 学习总结和代码(他人仓库)</a></br>
+<a href="https://github.com/howie6879/ruia">Async Python 3.6+ web scraping micro-framework based on asyncio（Python3.6+异步爬虫框架）(他人仓库)</a></br>
+<a href="https://github.com/spencer404/PyLoom">Python爬虫框架，内置微博、自如、豆瓣图书、拉勾网、拼多多等爬虫(他人仓库)</a></br>
+<a href="https://github.com/YPSheng/python">python-爬虫-web-数据分析(他人仓库)</a></br>
+<a href="https://github.com/kestiny/PythonCrawler">Python网络爬虫集合(他人仓库)</a></br>
+<a href="https://github.com/pinggin/Instagram_crawler">Python爬虫爬取 Instagram 博主照片视频(他人仓库)</a></br>
+<a href="https://github.com/kingname/SourceCodeOfBook">《Python爬虫开发 从入门到实战》配套源代码。(他人仓库)</a></br>
+<a href="https://github.com/HYonlin-e/python-spiders">python爬虫系列(他人仓库)</a></br>
+<a href="https://github.com/shengqiangzhang/examples-of-web-crawlers">一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some(他人仓库)</a></br>
+<a href="https://github.com/Blackyukun/dingdian">Python爬虫和Flask实现小说网站(他人仓库)</a></br>
+<a href="https://github.com/dragonflylxp/crawler">python爬虫项目集合(他人仓库)</a></br>
+<a href="https://github.com/lx307697527/dung_beetle">Python从零开始，一点一滴学习爬虫(他人仓库)</a></br>
+<a href="https://github.com/SFLAQiu/SpiderDemo">爬虫Demo，基于Python实现(他人仓库)</a></br>
+<a href="https://github.com/zhengwen09/scrapy_enterprise_architecture">python scrapy 企业级分布式爬虫开发架构模板(他人仓库)</a></br>
+<a href="https://github.com/inspurer/PythonSpider">基于python实现的各种小爬虫(他人仓库)</a></br>
+<a href="https://github.com/lrq154439/CrawlWeb">Python实现爬虫+辅助案例(他人仓库)</a></br>
+<a href="https://github.com/sansejin0723/Spider_Python">Python爬虫之多进程(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
