@@ -37,11 +37,16 @@
 <a href="https://github.com/kennycaiguo/java-technology-stack">分享Java工程师必备的技术栈笔记</a></br>
 <a href="https://github.com/kennycaiguo/JavaWebCoreNote">为Java初学者提供的快速对javaweb核心阶段进行学习、复习的笔记</a></br>
 <a href="https://github.com/kennycaiguo/java-jakarta-ee">Just some Java EE and Jakarta EE examples and tutorials(TomCat)</a></br>
+<a href="https://github.com/kennycaiguo/JavaWeb">JavaWeb学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/Java-EE-8-Application-Development-Code-Samples">Code samples for the book Java EE Application Development</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
 <a href=""></a></br>
 <Strong></font>
 **************************************************************************************************************************************
 ## 其他编程语言<br/>
 <a href="https://github.com/kennycaiguo/cSharp">C#常用代码以及电子书，操作各种数据库的demo</a></br>
+<a href="https://github.com/kennycaiguo/C-sharp">传智播客：C#教程</a><br/>
 <a href="https://github.com/kennycaiguo/Csharp-mongoDb">Csharp操作mongodb示例</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
 <a href="https://github.com/kennycaiguo/ebook.python">python ebook</a></br>
@@ -49,11 +54,14 @@
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
+<a href="https://github.com/kennycaiguo/mongo-php-driver-legacy">Legacy MongoDB PHP driver</a><br/>
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
 <a href="https://github.com/kennycaiguo/jQuery_ziyi2">jQuery2.0.3源码分析笔记</a><br/>
 <a href="https://github.com/kennycaiguo/WebHubBot">Python + Scrapy + MongoDB . 5 million data per day !!!💥 The world's largest website.</a></br>
+<a href="https://github.com/kennycaiguo/BankManagement">Bank Management project Using Python and Oracle11g</a><br/>
 <a href="https://github.com/kennycaiguo/Heima-Python-2018">传智播客 黑马 2018年三期Python培训笔记</a></br>
+<a href="https://github.com/kennycaiguo/mongodb-engine">Django MongoDB Backend</a><br/>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
@@ -62,6 +70,7 @@
 <a href="https://github.com/kennycaiguo/SQL-Server">SQL Server安装调试</a></br>
 <a href="https://github.com/kennycaiguo/ibm-db2-Database-">IBM db2 学习资料</a></br>
 <a href="https://github.com/kennycaiguo/Oracle-database-11g">Oracle-database-11g</a><br/>
+<a href="https://github.com/kennycaiguo/oracle11g-document-pdf">oracle11g-document-pdf</a><br/>
 <a href="https://github.com/kennycaiguo/sql-docs">Technical documentation for Microsoft SQL Server</a></br>
 <a href="https://github.com/kennycaiguo/MySql">mysql 数据库的sql备份</a></br>
 <a href="https://github.com/kennycaiguo/Learn-MongoDB">mongodb 学习资料</a></br>
