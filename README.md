@@ -34,6 +34,10 @@
 <a href="https://github.com/kennycaiguo/mybatis-generator">mybatis逆向工程，Oracle11G、MySQL5.7亲测可用</a></br>
 <a href="https://github.com/kennycaiguo/chuanzhi_workspace">传智工作代码</a></br>
 <a href="https://github.com/kennycaiguo/Springboot-JPA-Oracle11g">使用springboot2.1.5+JPA+oracle11g来进行操作</a></br>
+<a href="https://github.com/kennycaiguo/java-technology-stack">分享Java工程师必备的技术栈笔记</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+<a href=""></a></br>
 <Strong></font>
 **************************************************************************************************************************************
 ## 其他编程语言<br/>
@@ -47,6 +51,7 @@
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
+<a href="https://github.com/kennycaiguo/jQuery_ziyi2">jQuery2.0.3源码分析笔记</a><br/>
 <a href="https://github.com/kennycaiguo/WebHubBot">Python + Scrapy + MongoDB . 5 million data per day !!!💥 The world's largest website.</a></br>
 <a href="https://github.com/kennycaiguo/Heima-Python-2018">传智播客 黑马 2018年三期Python培训笔记</a></br>
 ### 网络前端开发
@@ -70,7 +75,7 @@
 <a href="NET Driver for MongoDB">NET Driver for MongoDB</a></br>
 <a href="https://github.com/kennycaiguo/express-mongodb-node">前后端分离实现增删改查</a>
 <a href="https://github.com/kennycaiguo/vue-express-mongodb">前后端分离mongodb</a><br/>
-
+<a href="https://github.com/kennycaiguo/mongodb-file-server">MongoDB File Server is a file server system based on MongoDB. 基于 MongoDB 的文件服务器。</a><br/>
 **************************************************************************************************************************************
 ## 电脑硬件以及windows操作系统相关<br/>
 <a href="https://github.com/kennycaiguo/Pc-hardware">电脑硬件相关电子书Pc-hardware</a><br/>
@@ -81,6 +86,7 @@
 <a href="https://github.com/kennycaiguo/OS-Linux-">linux相关电子书</a></br>
 <a href="https://github.com/kennycaiguo/linux-c-cpp">C、C++和其在Linux下的编程学习，主要是51CTO、传智播客、一些经典书籍</a></br>
 <a href="https://github.com/kennycaiguo/centos7_oracle_sql">在centos7上部署oracle11g，并学习oracle的基本sql操作</a><br/>
+<a href="https://github.com/kennycaiguo/mongodb_Tutorials-for-Web-Developers">Tutorials for web developers including bash scripting, Linux commands, MongoDB. Actively updating.</a><br/>
 **************************************************************************************************************************************
 
 <a href=""></a></br>
