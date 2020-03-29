@@ -207,7 +207,25 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/KKys/spider_study">python爬虫学习笔记(他人仓库)</a></br>
 <a href="https://github.com/TianzhongSong/Python3-Spiders">一些python爬虫程序(他人仓库)</a></br>
 <a href="https://github.com/liyaopinner/ArticleSpider-resourses">python分布式爬虫打造搜索引擎课程的资源(他人仓库)</a></br>
+<a href="https://github.com/sileixinhua/beautiful_photo_scrapy">爬取妹子图（python）：爬虫（bs+rq）+ gevent多线程(他人仓库)</a></br>
+<a href="https://github.com/princehaku/pyrailgun">Simple And Easy Python Crawler Framework，支持抓取javascript渲染的页面的简单实用高效的python网页爬虫抓取模块(他人仓库)</a></br>
+<a href="https://github.com/caijinlin/python-spider">python爬虫项目集(他人仓库)</a></br>
+<a href="https://github.com/qqxx6661/Price-monitor">京东商品价格监控：监控用户设定商品价格，降价邮件/微信提醒。技术：Python爬虫/IP代理池/JS接口爬取/Selenium页面爬取(他人仓库)</a></br>
+<a href="https://github.com/Acorn2/PythonSpider">python爬虫学习经历(他人仓库)</a></br>
+<a href="https://github.com/javasmall/python">python爬虫仓库，包括一些学习笔记，例如基础、简单的画图词云数据分析。主要还是爬虫(他人仓库)</a></br>
+<a href="https://github.com/xloya/WechatSpider">基于python+appium的android微信自动添加好友及爬取其朋友圈的爬虫(他人仓库)</a></br>
+<a href="https://github.com/pujinxiao/project_pjx">Python分布式爬虫打造搜索引擎(他人仓库)</a></br>
+<a href="https://github.com/h2pl/pyspider">知乎爬虫和v2ex爬虫的实现。使用python的pyspider爬虫进行开发，主要爬取知乎的问题和评论，以及v2ex的帖子。数据转储到mysql数据库，用于zhihu项目的使用。(他人仓库)</a></br>
+<a href="https://github.com/fu9852531/python_scrapy_spider">python scrapy 爬虫(他人仓库)</a></br>
+<a href="petterobam/learn-scrapy">个人python爬虫的学习和实践记录(他人仓库)</a></br>
+<a href="https://github.com/HANKAIluo/Meituan-spider">多线程美团酒店爬虫，python模拟美团_token(他人仓库)</a></br>
+<a href="https://github.com/daacheng/PythonBasic">平时工作中常用的Python零碎知识总结，爬虫学习总结与练习，Python数据分析学习总结(他人仓库)</a></br>
+<a href="https://github.com/ice-tong/TumblrSpider">scrapy编写的python爬虫，爬取汤不热上用户发布的图片与视频，下载到本地(他人仓库)</a></br>
+<a href="https://github.com/xiexiaoshinick/User-Python-Write-a-web-crawler">韦玮老师的《精通Python网络爬虫》配套代码(他人仓库)</a></br>
+<a href="https://github.com/ZhuoZhuoCrayon/pythonCrawler">python3网络爬虫笔记与实战源码。记录python爬虫学习全程笔记、参考资料和常见错误，约40个爬取实例与思路解析，涵盖urllib、requests、bs4、jsonpath、re、 pytesseract、PIL等常用库的使用(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
 <a href="https://github.com/kennycaiguo/ebook.python/tree/master/PyQt%2Bsource%20code">pyqt电子书</a><br/>
