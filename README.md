@@ -57,6 +57,11 @@
 <a href="https://github.com/kennycaiguo/ITCast">自学JavaWEB</a></br>
 <a href="https://github.com/kennycaiguo/SSMtest">Spring MVC+Spring+Mybatis+Oracle11G</a><br/>
 <a href="https://github.com/kennycaiguo/note">java学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/JavaEE-Servlet-JSP-Javabean">Forked from SalemSaiid/JavaEE-Servlet-JSP-Javabean
+Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
+<a href="https://github.com/kennycaiguo/DoranMall_SpringFramework">SpringFramework + Oracle11g + Mybatis + Maven</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 
@@ -77,6 +82,10 @@
 <a href="https://github.com/kennycaiguo/shop">传智商城</a></br>
 <a href="https://github.com/kennycaiguo/jingxi_shop-tp3.2">京西商城-传智播客39期</a></br>
 <a href="https://github.com/kennycaiguo/-Shop">传智播客168期视频教程 SSH框架项目</a><br/>
+<a href="https://github.com/kennycaiguo/babashop_JPA">该工程是基于SSJ(Sturts+Spring+JPA)框架电子商务管理系统，是黎活明老师传智播客JPA视频系列成果，这里参照视频实现了其中的80%功能，适合SSH刚入门的童鞋模仿着学习；</a><br/>
+<a href=""></a></br>
+<a href=""></a></br>
+<a href=""></a></br>
 
 ### 《Java Swing》
 <a href="https://github.com/kennycaiguo/AcademyDB">use java swing component & oracle11g</a><br/>
@@ -114,9 +123,10 @@
 ## <php>
  <a href="https://github.com/kennycaiguo/bbs">一款基于原生php语言的微型论坛，参考了传智播客教程视频开发而成。个人学习所用。</a><br/> 
  <a href="https://github.com/kennycaiguo/mongo-php-driver-legacy">Legacy MongoDB PHP driver</a><br/>
- 
+ <a href="https://github.com/kennycaiguo/zf1">传智播客 zend framework 1 学习</a><br/>
 ## <JavaScript+jQuery>
 <a href="https://github.com/kennycaiguo/xiaoxiaoxiao">共享资源js</a><br/>
+<a href="https://github.com/kennycaiguo/stock-mongodb">angularjs+mongodb+redis</a><br/>
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
 <a href="https://github.com/kennycaiguo/jQuery_ziyi2">jQuery2.0.3源码分析笔记</a><br/>
@@ -144,8 +154,12 @@
 <a href="https://github.com/kennycaiguo/Oracle-database-11g">Oracle-database-11g</a><br/>
 <a href="https://github.com/kennycaiguo/oracle11g-document-pdf">oracle11g-document-pdf</a><br/>
 <a href="https://github.com/kennycaiguo/oracle11gR2">ORACLE总结</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/oracle11G">oracle学习</a></br>
+<a href="https://github.com/kennycaiguo/YanOracle11gManger">oracle11g的sqlplus 管理套件</a><br/>
+## <MySQL>
 <a href="https://github.com/kennycaiguo/MySql">mysql 数据库的sql备份</a></br>
+### <mongoDb>
+ <a href="https://github.com/kennycaiguo/MongoDB">Mongodb学习笔记</a><br/> 
 <a href="https://github.com/kennycaiguo/Learn-MongoDB">mongodb 学习资料</a></br>
 <a href="https://github.com/kennycaiguo/the-little-mongodb-book-cn">The Little MongoDB Book 中文版</a><br/>
 <a href="https://github.com/kennycaiguo/mongo-ruby-driver">mongo-ruby驱动，给以合留一条路+_+</a></br>
