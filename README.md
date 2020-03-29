@@ -48,13 +48,22 @@
 <a href="https://github.com/kennycaiguo/Javas">主要关于java API中OOP、IO流、网络、反射和多线程并发编程等代码，结合《Thinking in java 4th Edition》一书，代码主要参考了传智播客刘意老师的课程代码。</a></br>
 <a href="https://github.com/kennycaiguo/CRMSystem">客户关系管理系统（传智播客），实现了客户和联系人的管理功能，主要是学习struts2+hibernate的整合</a></br>
 <a href="https://github.com/kennycaiguo/java-core">传智播客Java培训毕向东_Java基础_2011</a></br>
+<a href="https://github.com/kennycaiguo/DevNote">开发笔记</a></br>
+<a href="https://github.com/kennycaiguo/struts2_MRbie">struts2的学习笔记</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+<a href=""></a></br>
 <a href=""></a></br>
 ## 《Java就业班》
 <a href="https://github.com/kennycaiguo/LearnForJavaWeb">就业班学习过程</a></br>
 <a href="https://github.com/kennycaiguo/JavaEE-projects">:octocat:存放一些自己写的还有从不同开源社区fork下来的JavaEE项目，其中就不乏一些很多企业单位都在用的源码。</a><br/>
 <a href="https://github.com/kennycaiguo/goods">传智播客的图书商城</a></br>
-<a href=""></a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/JavaSE">Java就业班学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/JSP">trutds2+Hibernate+oracle11g+JDK1.6</a></br>
+<a href="https://github.com/kennycaiguo/CRUD-Java-Oracle-Bootstrap">CRUD-JavaEE-Oracle11g-Bootstrap</a></br>
+<a href="https://github.com/kennycaiguo/taotao">传智播客淘淘商城项目</a></br>
+<a href="https://github.com/kennycaiguo/czbk_bookstore">传智播客书城的代码</a></br>
 <a href=""></a></br>
 
 
@@ -80,6 +89,8 @@
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
+## <php>
+ <a href="https://github.com/kennycaiguo/bbs">一款基于原生php语言的微型论坛，参考了传智播客教程视频开发而成。个人学习所用。</a><br/> 
 <a href="https://github.com/kennycaiguo/mongo-php-driver-legacy">Legacy MongoDB PHP driver</a><br/>
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
