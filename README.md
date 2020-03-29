@@ -121,6 +121,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a></br>
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
 ## <php>
+ <a href="https://github.com/kennycaiguo/LearnPhp">php 电子书以及资料</a><br/>
  <a href="https://github.com/kennycaiguo/bbs">一款基于原生php语言的微型论坛，参考了传智播客教程视频开发而成。个人学习所用。</a><br/> 
  <a href="https://github.com/kennycaiguo/mongo-php-driver-legacy">Legacy MongoDB PHP driver</a><br/>
  <a href="https://github.com/kennycaiguo/zf1">传智播客 zend framework 1 学习</a><br/>
