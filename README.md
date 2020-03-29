@@ -41,6 +41,13 @@
 <a href="https://github.com/kennycaiguo/Java-EE-8-Application-Development-Code-Samples">Code samples for the book Java EE Application Development</a></br>
 <a href="https://github.com/kennycaiguo/itcast-1">传智练习</a></br>
 <a href="https://github.com/kennycaiguo/JavaEE_sunnyandgood">🔥⭐️👍框架(SSM/SSH)学习笔记</a></br>
+<a href="https://github.com/kennycaiguo/spring-hibernate-servlet">spring4+hibernate5+servlet+oracle11g+logback+bootstrap</a><br/>
+<a href="https://github.com/kennycaiguo/Java-1">Java学习笔记</a><br/>
+<a href="https://github.com/kennycaiguo/SSH_Learn">Struts2学习笔记</a></br>
+<a href=""></a></br>
+<a href=""></a></br>
+#### 《Java就业班》
+<a href="https://github.com/kennycaiguo/LearnForJavaWeb">就业班学习过程</a></br>
 ### 《Java爬虫》
 <a href="https://github.com/kennycaiguo/spider">传播智客培训视频中爬虫的相关</a></br>
 ### 《安卓开发》
@@ -56,6 +63,10 @@
 <a href="https://github.com/kennycaiguo/C-sharp">传智播客：C#教程</a><br/>
 <a href="https://github.com/kennycaiguo/Csharp-mongoDb">Csharp操作mongodb示例</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
+### <c++>
+<a href="https://github.com/kennycaiguo/GeneticAlgorithm">这是用C++写的遗传算法，参考《智能算法 30案例分析 第2版》一书，包含TSP、LQR控制器、结合量子算法、多目标优化、粒子群等，由于原作为matlab程序，综合自己思路通过C++写出来，算是练习和开个大坑</a><br/>
+### <Python>
+ <a href="https://github.com/kennycaiguo/dailyfresh">传智播客python培训中django_web的一个天天生鲜的电商项目</a><br/> 
 <a href="https://github.com/kennycaiguo/ebook.python">python ebook</a></br>
 <a href="https://github.com/kennycaiguo/Qt">Ot学习资料，即将更新</a></br>
 <a href="https://github.com/kennycaiguo/e-books">ebooks to learn java,c++,python,php,vb.net</a><br/>
