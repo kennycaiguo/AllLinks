@@ -67,8 +67,12 @@
 <a href="https://github.com/kennycaiguo/privilegeManager">搭建一个基于目前比较主流的三大web框架（struts2、mybatis、spring3）进行后台的处理，使用oracle11g作为数据库的管理的项目</a></br>
 <a href="https://github.com/kennycaiguo/bookstore">传智播客网上书城毕设源码及解析</a></br>
 <a href="https://github.com/kennycaiguo/SSM_shop">智传博客商城</a></br>
-<a href=""></a></br>
-<a href=""></a></br
+<a href="https://github.com/kennycaiguo/BAT-Java">ava课堂笔记、代码、java核心知识点梳理、java笔试面试资料</a></br>
+<a href="https://github.com/kennycaiguo/itheima-base">黑马Java培训代码（2017/04/15基础班+05/14就业班）</a></br>
+<a href="https://github.com/kennycaiguo/shop">传智商城</a></br>
+<a href="https://github.com/kennycaiguo/jingxi_shop-tp3.2">京西商城-传智播客39期</a></br>
+
+
 ### 《Java Swing》
 <a href="https://github.com/kennycaiguo/AcademyDB">use java swing component & oracle11g</a><br/>
 ### 《Java爬虫》
@@ -96,7 +100,10 @@
 <a href="https://github.com/kennycaiguo/mynotes">笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...</a></br> 
 ## <php>
  <a href="https://github.com/kennycaiguo/bbs">一款基于原生php语言的微型论坛，参考了传智播客教程视频开发而成。个人学习所用。</a><br/> 
-<a href="https://github.com/kennycaiguo/mongo-php-driver-legacy">Legacy MongoDB PHP driver</a><br/>
+ <a href="https://github.com/kennycaiguo/mongo-php-driver-legacy">Legacy MongoDB PHP driver</a><br/>
+ 
+## <JavaScript+jQuery>
+<a href="https://github.com/kennycaiguo/xiaoxiaoxiao">共享资源js</a><br/>
 <a href="https://github.com/kennycaiguo/Javascript">Javascript学习资料以及电子书</a></br>
 <a href="https://github.com/kennycaiguo/learnjQuery">Learn jQuery</a><br/>
 <a href="https://github.com/kennycaiguo/jQuery_ziyi2">jQuery2.0.3源码分析笔记</a><br/>
@@ -116,10 +123,13 @@
 **************************************************************************************************************************************
 ## 数据库<br/>
 <a href="https://github.com/kennycaiguo/SQL-Server">SQL Server安装调试</a></br>
+<a href="https://github.com/kennycaiguo/sql-docs">Technical documentation for Microsoft SQL Server</a></br>
 <a href="https://github.com/kennycaiguo/ibm-db2-Database-">IBM db2 学习资料</a></br>
+## <Oracle>
 <a href="https://github.com/kennycaiguo/Oracle-database-11g">Oracle-database-11g</a><br/>
 <a href="https://github.com/kennycaiguo/oracle11g-document-pdf">oracle11g-document-pdf</a><br/>
-<a href="https://github.com/kennycaiguo/sql-docs">Technical documentation for Microsoft SQL Server</a></br>
+<a href="https://github.com/kennycaiguo/oracle11gR2">ORACLE总结</a></br>
+<a href=""></a></br>
 <a href="https://github.com/kennycaiguo/MySql">mysql 数据库的sql备份</a></br>
 <a href="https://github.com/kennycaiguo/Learn-MongoDB">mongodb 学习资料</a></br>
 <a href="https://github.com/kennycaiguo/the-little-mongodb-book-cn">The Little MongoDB Book 中文版</a><br/>
