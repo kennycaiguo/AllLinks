@@ -146,6 +146,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
+<a href="https://github.com/kennycaiguo/ebook.python/tree/master/PyQt%2Bsource%20code">pyqt电子书</a><br/>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
