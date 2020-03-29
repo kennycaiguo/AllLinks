@@ -50,7 +50,7 @@
 <a href="https://github.com/kennycaiguo/java-core">传智播客Java培训毕向东_Java基础_2011</a></br>
 <a href="https://github.com/kennycaiguo/DevNote">开发笔记</a></br>
 <a href="https://github.com/kennycaiguo/struts2_MRbie">struts2的学习笔记</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/JavaEE-SSH-Template">javaEE+SSH框架模板项目</a></br>
 <a href=""></a></br>
 <a href=""></a></br>
 <a href=""></a></br>
@@ -64,9 +64,13 @@
 <a href="https://github.com/kennycaiguo/CRUD-Java-Oracle-Bootstrap">CRUD-JavaEE-Oracle11g-Bootstrap</a></br>
 <a href="https://github.com/kennycaiguo/taotao">传智播客淘淘商城项目</a></br>
 <a href="https://github.com/kennycaiguo/czbk_bookstore">传智播客书城的代码</a></br>
+<a href="https://github.com/kennycaiguo/privilegeManager">搭建一个基于目前比较主流的三大web框架（struts2、mybatis、spring3）进行后台的处理，使用oracle11g作为数据库的管理的项目</a></br>
+<a href="https://github.com/kennycaiguo/bookstore">传智播客网上书城毕设源码及解析</a></br>
+<a href="https://github.com/kennycaiguo/SSM_shop">智传博客商城</a></br>
 <a href=""></a></br>
-
-
+<a href=""></a></br
+### 《Java Swing》
+<a href="https://github.com/kennycaiguo/AcademyDB">use java swing component & oracle11g</a><br/>
 ### 《Java爬虫》
 <a href="https://github.com/kennycaiguo/spider">传播智客培训视频中爬虫的相关</a></br>
 ### 《安卓开发》
@@ -77,11 +81,12 @@
 <a href=""></a></br>
 <Strong></font>
 **************************************************************************************************************************************
-## 其他编程语言<br/>
+## c#<br/>
 <a href="https://github.com/kennycaiguo/cSharp">C#常用代码以及电子书，操作各种数据库的demo</a></br>
 <a href="https://github.com/kennycaiguo/C-sharp">传智播客：C#教程</a><br/>
 <a href="https://github.com/kennycaiguo/Csharp-mongoDb">Csharp操作mongodb示例</a></br>
 <a href="https://github.com/kennycaiguo/vb.net">vb.net学习资料，以及vb.net操作数据库的demo有重要作用</a></br>
+<a href="https://github.com/kennycaiguo/MongoDB.AspNet.Identity">ASP.NET Identity provider that uses MongoDB for storage</a><br/>
 ### <c++>
 <a href="https://github.com/kennycaiguo/GeneticAlgorithm">这是用C++写的遗传算法，参考《智能算法 30案例分析 第2版》一书，包含TSP、LQR控制器、结合量子算法、多目标优化、粒子群等，由于原作为matlab程序，综合自己思路通过C++写出来，算是练习和开个大坑</a><br/>
 
