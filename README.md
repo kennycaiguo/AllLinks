@@ -144,7 +144,18 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 ### <Python 爬虫>
 <a href="https://github.com/kennycaiguo/scrapy-mongodb">MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.</a></br>
 <a href="https://github.com/dlee992/WebCrawlerExample">PyQt+Scrapy+MongoDB</a><br/>
-
+<a href="https://github.com/jhao104/proxy_pool">Python爬虫代理IP池(proxy pool)(他人仓库)</a></br>
+<a href="https://github.com/xingag/spider_python">python爬虫(他人仓库)</a></br>
+<a href="https://github.com/dataabc/weiboSpider">新浪微博爬虫，用python爬取新浪微博数据(他人仓库)</a></br>
+<a href="https://github.com/lining0806/PythonSpiderNotes">Python入门网络爬虫之精华版(他人仓库)</a></br>
+<a href="https://github.com/wistbean/learn_python3_spider">python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium…(他人仓库)</a></br>
+<a href="https://github.com/forezp/ZhihuSpiderMan">Python爬虫系列(他人仓库)</a></br>
+<a href="https://github.com/shineyr/Spider">Python网络爬虫(他人仓库)</a></br>
+<a href="https://github.com/LUCY78765580/Python-web-scraping">python爬虫，包含大小项目(他人仓库)</a></br>
+<a href="https://github.com/facert/tumblr_spider">汤不热 python 多线程爬虫(他人仓库)</a></br>
+<a href="https://github.com/xianhu/PSpider">简单易用的Python爬虫框架，QQ交流群：597510560(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
 ### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
 <a href="https://github.com/kennycaiguo/ebook.python/tree/master/PyQt%2Bsource%20code">pyqt电子书</a><br/>
@@ -180,7 +191,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/robdobsn/QtStockTicker">Stock ticker using PyQt(他人仓库)</a></br>
 <a href="https://github.com/kz26/dottorrent-gui"> GUI torrent file creator with batch functionality(他人仓库)</a></br>
 <a href="https://github.com/develersrl/qt-pyqt-sdk-builder">Create your custom Qt + PyQt SDK for multiple platforms(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
+<a href="https://github.com/HuberTRoy/MusicBox">🎵 MusicPlayer 一站式收听多平台音乐(网易云, 虾米, QQ)的跨平台音乐播放器，尽情享受吧~✨(他人仓库)</a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
