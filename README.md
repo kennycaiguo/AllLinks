@@ -144,7 +144,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 ### <Python 爬虫>
 <a href="https://github.com/kennycaiguo/scrapy-mongodb">MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.</a></br>
 
-###  <PyQt>
+### PyQt
 <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
