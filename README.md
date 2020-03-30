@@ -368,17 +368,35 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://github.com/asyncins/acrust">基于 rust 语言的算法实现-长期慢更新(他人仓库)</a></br>
 <a href="https://github.com/Mogeko/rust-study">Rust 语言的学习笔记(他人仓库)</a></br>
 <a href="https://github.com/LuckLiJin/rust-base-program">rust语言的基础练习(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
-<a href="">(他人仓库)</a></br>
+<a href="https://github.com/yaozijian/RustProgramming">Rust编程语言》（第二版）(他人仓库)</a></br>
+<a href="bingoli/rust_demos">rust语言的一些例子(他人仓库)</a></br>
+<a href="https://github.com/ShanghaiWuDun/rust-snmp">SNMP协议的Rust语言实现(他人仓库)</a></br>
+<a href="https://github.com/AbelEthan/rust-study">学习Rust语言的代码案例(他人仓库)</a></br>
+<a href="https://github.com/LiQingMuBai/rustdingtalk">基于rust语言，钉钉机器人(他人仓库)</a></br>
+<a href="https://github.com/cnruby/cnruby.github.com">Rust语言之道 .^....°....^. The truth of the Rust language(他人仓库)</a></br>
+<a href="https://github.com/seingshinlee/Project-Euler">利用欧拉计划（Project Euler）学习Rust语言和Swift语言的运用和熟悉语法(他人仓库)</a></br>
+<a href="https://github.com/tensorchen/learn-rust-roadmap">学习Rust程序设计语言路线图(他人仓库)</a></br>
+<a href="https://github.com/soojade/guessing">rust 语言 学习 数字猜谜 实例(他人仓库)</a></br>
+<a href="https://github.com/RemiliaForever/light2d-rust">用C语言画光 https://github.com/miloyip/light2d rust练习(他人仓库)</a></br>
+<a href="https://github.com/toywei/rustl.cn">Rust编程语言社区，服务于开发者、企业。(他人仓库)</a></br>
+<a href="https://github.com/Gackle/grep-rs">简化版的 grep 工具，基于 Rust 语言(他人仓库)</a></br>
+<a href="https://github.com/Jamsa/trpl">Rust 程序设计语言第二版学习(他人仓库)</a></br>
+<a href="https://github.com/pantao/url-shortener-rust">基于 Rust 语言开发的 防 goo.gl 的URL 缩短器(他人仓库)</a></br>
+<a href="https://github.com/dollarkillerx/vlang-study">新兴语言vlang学习 集rust和go与一体 没有gc(他人仓库)</a></br>
+<a href="https://github.com/klusfq/classic_100">用rust实现《菜鸟教程》里的【c语言经典100例】(他人仓库)</a></br>
+<a href="https://github.com/colorpeach/guessing_name">Rust 程序设计语言中的猜数字游戏代码学习(他人仓库)</a></br>
+<a href="https://github.com/buchiyexiao/Rust_DataStructure">借助Rust语言实现诸如栈，队列等数据结构(他人仓库)</a></br>
+<a href="https://github.com/linonetwo/Javascripter-can-learn-Rust-fust">学习语言，迁移已有知识最快，我们可以从 ESMAScript 迁移到 Rust(他人仓库)</a></br>
+<a href="https://github.com/fuzuchang/Rust-code">Rust是Mozilla开发的注重安全、性能和并发性的系统级编程语言(他人仓库)</a></br>
+<a href="https://github.com/acl-dev/master-rust">Rust 语言开发的服务器模板，可与 acl_master 服务器框架深度集成(他人仓库)</a></br>
+<a href="https://github.com/xuwujing/rust_study">记录本人在学习rust语言的一些笔记！从零开始记录！(他人仓库)</a></br>
+<a href="https://github.com/Trglion/Luxuriant-Embedded">系统名：葳蕤（Luxuriant），以Rust语言打造的微内核（seL4）免费开源、高效稳定的嵌入式操作系统;Luxuriant Embedded(他人仓库)</a></br>
+<a href="https://github.com/Turing-Chu/check_hash">Rust 编程语言 2018版 （中文版）原书文件最后一次commit hash 与翻译中记录commit hash同步比较(他人仓库)</a></br>
+<a href="https://github.com/Trglion/Luxuriant-server">系统名：葳蕤(Luxuriant)，以Rust语言打造的微内核(seL4)免费开源服务器操作系统；Luxuriant Server；针对深度学习服务器，且CPU、GPU等特殊优化的深度学习操作系统(他人仓库)</a></br>
+<a href="https://github.com/iceopen/rust-lang">操作系统打交道，我会使用 Rust(他人仓库)</a></br>
+<a href="https://github.com/yinifung/fedag">(开发中) FeDAG项目的目标是开发出第四代集群通用计算引擎，满足高效的迭代计算，批处理，图计算，流式计算。 同时满足内存安全，并发安全，类型安全。本项目完全采用 Rust 语言来开发，属于学习研究项目，请暂时不要在工程中使用(他人仓库)</a></br>
+
+
 **************************************************************************************************************************************
 ## 数据库<br/>
 <a href="https://github.com/kennycaiguo/SQL-Server">SQL Server安装调试</a></br>
