@@ -301,9 +301,11 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 ## 【rust(R语言)】
 <a href="https://pc.qq.com/detail/14/detail_13114.html">R语言下载</a><br/>
 <a href="https://www.w3cschool.cn/r/">R语言教程</a><br/>
+<a href="https://www.w3cschool.cn/r/">R语言教程</a><br/>
 <a href="https://zhuanlan.zhihu.com/p/39444793">R语言教程国内教程</a><br/>
 <a href="https://github.com/yihui/r-ninja">R语言忍者秘笈(他人仓库)</a></br>
-<a href="https://github.com/qinwf/awesome-R/tree/master/misc">R语言资源3</a><br/>
+<a href="https://github.com/qinwf/awesome-R/tree/master/misc">R语言资源</a><br/>
+<a href="http://codingdict.com/article/2821">R语言资源2</a><br/>
 <a href="https://github.com/harryprince/R-Tutor">R语言学习资料(他人仓库)</a></br>
 <a href="https://github.com/Mounment/R-Project">R语言项目(他人仓库)</a></br>
 <a href="https://github.com/EasyChart/Beautiful-Visualization-with-R">《R语言数据可视化之美》配套代码(他人仓库)</a></br>
