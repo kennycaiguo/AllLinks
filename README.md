@@ -298,7 +298,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 ### 网络前端开发
 <a href="https://github.com/kennycaiguo/Learn_html">html学习资料</a></br>
 
-## 【rust(R语言)】
+## 【统计R语言】
 <a href="https://pc.qq.com/detail/14/detail_13114.html">R语言下载</a><br/>
 <a href="https://www.w3cschool.cn/r/">R语言教程</a><br/>
 <a href="https://www.w3cschool.cn/r/">R语言教程</a><br/>
@@ -334,12 +334,51 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
-### 【R语言爬虫】
+### 【统计R语言爬虫】
 <a href="https://github.com/Leo-Lee15/Webscrapping">R语言爬虫；Python爬虫；rvest；Rcurl(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 <a href="">(他人仓库)</a></br>
 
+## Rust语言(系统编程r语言，不是统计R语言)
+<a href="https://baike.baidu.com/item/Rust%E8%AF%AD%E8%A8%80/9502634?fr=aladdin">什么是Rust语言</a></br>
+<a href="http://www.smzy.com/smzy/down382778.html#a4">Rust语言2018官方版(系统编程r语言) v1.25.0 最新版下载</a></br>
+<a href="https://github.com/KaiserY/rust-book-chinese">rust 程序设计语言 中文版(他人仓库)</a></br>
+<a href="https://github.com/KaiserY/trpl-zh-cn">Rust 程序设计语言（第二版 & 2018 edition）(他人仓库)</a></br>
+<a href="https://github.com/wx-chevalier/ProgrammingLanguage-Series">📚 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift(他人仓库)</a></br>
+<a href="https://github.com/rustcc/rust-zh">Rust中文社区开源项目：Rust编程语言官方文档中文化(他人仓库)</a></br>
+<a href="https://github.com/linuxaged/rust_book_zh">Rust 编程语言中文版(他人仓库)</a></br>
+<a href="https://github.com/skyao/learning-rust">Rust语言学习笔记(他人仓库)</a></br>
+<a href="https://github.com/ai-word/Language_Codes">🌸🌸🌸编程语言记录，Rust语言，Go语言，Python语言，Lua语言，C/C++....基本知识，及各自语言的设计特点及应用的领域，语言是工具，逻辑是根本..(他人仓库)</a></br>
+<a href="https://github.com/QueryStyle/Study">Go、Rust、Kotlin三种语言的学习资料(他人仓库)</a></br>
+<a href="https://github.com/wspl/trpl-zh-cn-pdf">KaiserY 的《Rust 程序设计语言（第二版）》PDF 版本(他人仓库)</a></br>
+<a href="https://github.com/3442853561/rustbook-zh-cn">Rust程序设计语言(中文版)(他人仓库)</a></br>
+<a href="https://github.com/rust-lang-cn/book-cn">Rust 程序设计语言——Chinese translation of The Rust Programming Language (Book)(他人仓库)</a></br>
+<a href="https://github.com/sbwtw/MyParser">一个用 Rust 实现的 C 语言词法分析器和语法分析器(他人仓库)</a></br>
+<a href="https://github.com/deepbluez/rust_study">Rust 语言练习(他人仓库)</a></br>
+<a href="https://github.com/weston100721/RUST-learning">rust语言学习(他人仓库)</a></br>
+<a href="https://github.com/luoxiangyong/rust-in-practice">Rust语言实践(他人仓库)</a></br>
+<a href="https://github.com/private-study/rust_study">rust 语言学习(他人仓库)</a></br>
+<a href="https://github.com/simpossible/myrust">学习rust 语言(他人仓库)</a></br>
+<a href="https://github.com/jabez128/rust_guide">rust语言指引(他人仓库)</a></br>
+<a href="https://github.com/yujinliang/sparrow">Sparrow(小麻雀)，MySQL Sharding Proxy, Rust语言练手项目！(他人仓库)</a></br>
+<a href="https://github.com/dayn9t/rx">Rust语言的基础库(他人仓库)</a></br>
+<a href="LiuweiXinshuo/Rust_book">Rust 语言翻译教程(他人仓库)</a></br>
+<a href="https://github.com/c0ding/rust-xmind">rust 语言 归纳总结(他人仓库)</a></br>
+<a href="https://github.com/asyncins/acrust">基于 rust 语言的算法实现-长期慢更新(他人仓库)</a></br>
+<a href="https://github.com/Mogeko/rust-study">Rust 语言的学习笔记(他人仓库)</a></br>
+<a href="https://github.com/LuckLiJin/rust-base-program">rust语言的基础练习(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
+<a href="">(他人仓库)</a></br>
 **************************************************************************************************************************************
 ## 数据库<br/>
 <a href="https://github.com/kennycaiguo/SQL-Server">SQL Server安装调试</a></br>
