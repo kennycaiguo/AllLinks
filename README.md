@@ -343,7 +343,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 ## Rust语言(系统编程r语言，不是统计R语言)
 <a href="https://baike.baidu.com/item/Rust%E8%AF%AD%E8%A8%80/9502634?fr=aladdin">什么是Rust语言</a></br>
 <a href="https://www.rust-lang.org/zh-CN/learn/get-started">Rust语言安装器rustup-init下载</a></br>
-<a href=""></a></br>
+<a href="https://github.com/kennycaiguo/Rust">自己的rust仓库</a></br>
 <a href="https://github.com/denglitong/tao-of-rust">《Rust编程之道》</a><br>
 <a href="https://github.com/ZhangHanDong/tao-of-rust-codes">《Rust编程之道》随书源码</a><br/>
 <a href="https://github.com/KaiserY/rust-book-chinese">rust 程序设计语言 中文版(他人仓库)</a></br>
