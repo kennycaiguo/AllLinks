@@ -344,6 +344,7 @@ Java EE (Servlet+JSP+Javabean) / E-commerce</a></br>
 <a href="https://baike.baidu.com/item/Rust%E8%AF%AD%E8%A8%80/9502634?fr=aladdin">什么是Rust语言</a></br>
 <a href="https://github.com/kennycaiguo/rust-1">rust源代码，可以供racer使用</a><br/>
 <a href="https://wiki.jikexueyuan.com/project/rust-primer/editors/visualstudio.html">搭建visualRust+visualgdb rust调试环境</a><br/>
+<a href="https://blog.csdn.net/arminkztl/article/details/45954459">Eclipse(RustDT) + Racer + Windows 平台Rust开发环境搭建</a><br/>
 <a href="https://www.rust-lang.org/zh-CN/learn/get-started">Rust语言安装器rustup-init下载</a></br>
 <a href="https://github.com/kennycaiguo/Rust">自己的rust仓库</a></br>
 <a href="https://github.com/denglitong/tao-of-rust">《Rust编程之道》</a><br>
