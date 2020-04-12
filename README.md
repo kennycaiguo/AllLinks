@@ -5,6 +5,7 @@
 <font size="72"><Strong>
  <a href="https://github.com/kennycaiguo/Kenny_javaebook-And-source-code">Java电子书，以及数据库常用依赖jar包，非常重要</a></br>
  <a href="http://www.groovy-lang.org/differences.html">比较groovy 与Java</a><br/>
+ <a href="https://github.com/kennycaiguo/GMavenPlus">Groovy官方插件使用介绍</a><br/>
  <a href="https://zhuanlan.zhihu.com/p/75976213">Maven中java与Groovy的混合开发</a><br/>
  <a href="https://github.com/kennycaiguo/GMavenPlus">Maven中java与Groovy的混合开发资料，源码</a><br/>
  <a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
