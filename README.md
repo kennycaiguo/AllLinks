@@ -7,6 +7,8 @@
  <a href="http://www.groovy-lang.org/differences.html">比较groovy 与Java</a><br/>
  <a href="https://github.com/kennycaiguo/GMavenPlus">Groovy官方插件使用介绍</a><br/>
  <a href="https://zhuanlan.zhihu.com/p/75976213">Maven中java与Groovy的混合开发</a><br/>
+ <a href="http://pfmiles.github.io/blog/java-groovy-mixed/">Java与groovy混编 —— 一种兼顾接口清晰和实现敏捷的开发方式</a><br/>
+ <a href="https://gist.github.com/pfmiles/2f2ab77f06d48384f113">groovy与java混编的jar工程的maven pom.xml配置</a><br/>
  <a href="https://github.com/kennycaiguo/GMavenPlus">Maven中java与Groovy的混合开发资料，源码</a><br/>
  <a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
  <a href="https://github.com/kennycaiguo/java">传智播客-黑马32期</a></br>
