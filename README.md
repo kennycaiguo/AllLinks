@@ -11,6 +11,7 @@
  <a href="https://gist.github.com/pfmiles/2f2ab77f06d48384f113">groovy与java混编的jar工程的maven pom.xml配置</a><br/>
  <a href="https://github.com/kennycaiguo/GMavenPlus">Maven中java与Groovy的混合开发资料，源码</a><br/>
  <a href="http://hippoom.github.io/blogs/src-test-groovy.html">src/test/groovy——JVM混合语言开发实践</a><br/>
+ <a href="https://github.com/kennycaiguo/gradle-learning/blob/master/1-gradle-first-try/Gradle%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8">Gradle快速入门</a><br/>
  <a href="https://github.com/kennycaiguo/Java-Notes">java学习笔记，包括JVM，并发，JDK一些工具的源码，各种书籍，spring，hashMap实现源码分析</a></br>
  <a href="https://github.com/kennycaiguo/java">传智播客-黑马32期</a></br>
  <a href="https://github.com/kennycaiguo/java-course">Course about Java and Java EE</a></br>
