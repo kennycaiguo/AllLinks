@@ -1,5 +1,6 @@
 # 我的仓库索引页面，存放常用和重要仓库的连接，点击相应的文本进入对应的仓库
 # <a href="https://git-lfs.github.com/">github大文件处理</a>
+# <a href="https://www.kkxiazai.com/hbook/index_436.html">手册与教程:快快下载站</a>
 # 网盘
 <a href="https://cloud.tencent.com/developer/article/1612098">万物皆可Severless之免费搭建自己的不限速大容量云盘（5TB）</a><br/>
 # 下载工具
