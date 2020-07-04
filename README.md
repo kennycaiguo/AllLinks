@@ -7,6 +7,8 @@
 <a href="https://cloud.tencent.com/developer/article/1612098">万物皆可Severless之免费搭建自己的不限速大容量云盘（5TB）</a><br/>
 # 下载工具
 <a href="https://github.com/kennycaiguo/Motrix">一款全能的下载工具Motrix</a><br/>
+# dotnet core
+<a href="https://github.com/kennycaiguo/dotnet-core/blob/master/README.md">dot net 学习资料</a>
 # java<br/>
 <font size="72"><Strong>
  <a href="https://github.com/kennycaiguo/Kenny_javaebook-And-source-code">Java电子书，以及数据库常用依赖jar包，非常重要</a></br>
