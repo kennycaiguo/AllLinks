@@ -4,6 +4,7 @@
 # <a href="https://www.runoob.com/w3cnote/code-website-recommend.html">点我进入：一些不错的编程学习网站</a><br/>
 # <a href="https://docs.microsoft.com/zh-cn/dotnet/api/?view=net-5.0">.net API浏览器</a><br/>
 # <a href="https://www.cnblogs.com/junxian_chen/p/4193538.html">F# 越用越喜欢</a>
+# <a href="http://www.itpow.com/docs/asp.net/f-sharp/">F#文档</a>
 # 网盘
 <a href="https://cloud.tencent.com/developer/article/1612098">万物皆可Severless之免费搭建自己的不限速大容量云盘（5TB）</a><br/>
 # 下载工具
